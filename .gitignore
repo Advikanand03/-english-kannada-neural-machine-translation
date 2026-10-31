@@ -8,3 +8,4 @@ __pycache__/
 *.bin
 *.safetensors
 data/raw/
+.DS_Store
